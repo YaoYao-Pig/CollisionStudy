@@ -324,7 +324,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1614734881
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -343,14 +343,14 @@ MonoBehaviour:
   iterStep: 15
   triangleA:
     a: {x: -0.3, y: 3}
-    b: {x: 3, y: 0.37}
-    c: {x: 1, y: 0}
+    b: {x: 5.09, y: 1.07}
+    c: {x: 1, y: 0.18}
   triangleB:
-    a: {x: 3.54, y: 1.14}
+    a: {x: 3.54, y: 1.57}
     b: {x: 1.97, y: 1.4}
-    c: {x: 3.74, y: 3.74}
+    c: {x: 3.74, y: 3.18}
   quadA:
-    a: {x: 1.24, y: 0}
+    a: {x: 1.24, y: -0.04}
     b: {x: 1, y: 1}
     c: {x: 0, y: 1}
     d: {x: 0.4, y: 0.28}
