@@ -1,0 +1,11 @@
+.idea\
+/.idea
+/Library
+/ProjectSettings
+/obj
+/Logs
+/Packages
+/Temp
+/UserSettings
+CollisionStudy.sln
+Assembly-CSharp.csproj
